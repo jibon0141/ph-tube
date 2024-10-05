@@ -80,7 +80,7 @@ const displayVideo= (videos) =>{
         videoContainer.classList.remove("grid");
         videoContainer.innerHTML=`
         <div class="min-h-[500px] screen flex flex-col gap-5 justify-center items-center">
-        <img src="assets/icon.png">
+        <img src="assets/Icon.png">
         <p class="text-center text-xl font-bold">NO CONTENT HERE</p>
         <div>
         `;
